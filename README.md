@@ -21,6 +21,7 @@
    - React
    - React Native
    - NextJS
+   - Go
    - NodeJS
    - JavaScript
    - TypeScript
