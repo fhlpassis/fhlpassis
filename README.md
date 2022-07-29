@@ -26,6 +26,7 @@
    - JavaScript
    - TypeScript
    - Docker
+   - AWS
    - HTML
    - CSS, SCSS, SASS
    - Styled Components
