@@ -3,8 +3,8 @@
 ### Hi, I'm Paulo Assis 👋
 
   - 🖥️ Full Stack Developer
-  - 📚 Computer Science student
-  - 🌱 Currently most working with React and React Native
+  - 📚 Computer Scientist
+  - 🌱 Currently most working with React, React Native, NodeJS, Go and TypeScript
   - ⚡ Learning UX/UI Design atm
 
 <div> 
@@ -30,6 +30,7 @@
    - HTML
    - CSS, SCSS, SASS
    - Styled Components
+   - MUI, Chakra UI and Mantine
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fhlpassis&count_private=true&show_icons=trueinclude_all_commits=false&theme=dark)](https://github.com/fhlpassis/github-readme-stats)
 
