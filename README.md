@@ -23,12 +23,14 @@
    - NextJS
    - Go
    - NodeJS
+   - NestJS
    - JavaScript
    - TypeScript
    - Docker
    - AWS
    - HTML
    - CSS, SCSS, SASS
+   - TailwindCSS
    - Styled Components
    - MUI, Chakra UI and Mantine
 
