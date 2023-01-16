@@ -1,4 +1,6 @@
-# 👾 A long time ago in a galaxy far, far away...
+# ❤️ **"Grace be to you and peace from God our Father, and from the Lord Jesus Christ." *2 Corinthians 1:2*** ❤️
+
+https://igrejacristovive.com.br/
 
 ### Hi, I'm Paulo Assis 👋
 
@@ -38,8 +40,5 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fhlpassis&&langs_count=10&layout=compact&theme=dark)](https://github.com/fhlpassis/github-readme-stats)
 
-❤️ **"Grace be to you and peace from God our Father, and from the Lord Jesus Christ." *2 Corinthians 1:2***
-
-https://igrejacristovive.com.br/
 
 *To be continued...*
