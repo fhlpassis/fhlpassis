@@ -23,18 +23,15 @@ https://igrejacristovive.com.br/
    - React
    - React Native
    - NextJS
-   - Go
    - NodeJS
    - NestJS
    - JavaScript
    - TypeScript
+   - Go
+   - Python
    - Docker
    - AWS
-   - HTML
-   - CSS, SCSS, SASS
-   - TailwindCSS
-   - Styled Components
-   - MUI, Chakra UI and Mantine
+   - HTML, CSS, SCSS, SASS, TailwindCSS, Styled Components, MUI, Chakra UI and Mantine
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fhlpassis&count_private=true&show_icons=trueinclude_all_commits=false&theme=dark)](https://github.com/fhlpassis/github-readme-stats)
 
