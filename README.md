@@ -4,10 +4,10 @@ https://igrejacristovive.com.br/
 
 ### Hi, I'm Paulo Assis 👋
 
-  - 🖥️ Full Stack Developer
+  - 🖥️ Tech Lead and Full Stack Developer
   - 📚 Computer Scientist
   - 🌱 Currently most working with React, React Native, NodeJS, Go and TypeScript
-  - ⚡ Learning UX/UI Design atm
+  - ⚡ Learning more every day
 
 <div> 
   <a href = "mailto:fhlpassis@gmail.com" target="_blank">
