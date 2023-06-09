@@ -29,7 +29,7 @@ https://igrejacristovive.com.br/
    - TypeScript
    - Go
    - Python
-   - Docker
+   - Docker | Kubernetes | Swarm
    - AWS
    - HTML, CSS, SCSS, SASS, TailwindCSS, Styled Components, MUI, Chakra UI and Mantine
 
